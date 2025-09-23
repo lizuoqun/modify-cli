@@ -1,6 +1,6 @@
 {
   "name": "modify-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": "/bin/index.js",
   "scripts": {
@@ -12,6 +12,7 @@
   "keywords": [
     "cli"
   ],
+  "github": "https://github.com/lizuoqun/modify-cli",
   "dependencies": {
     "chalk": "^4.0.0",
     "commander": "^14.0.1",
