@@ -1,6 +1,6 @@
 {
   "name": "modify-cli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "index.js",
   "bin": "/bin/index.js",
   "scripts": {
@@ -12,7 +12,19 @@
   "keywords": [
     "cli"
   ],
-  "github": "https://github.com/lizuoqun/modify-cli",
+  "files": [
+    "bin/",
+    "README.md",
+    "package.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lizuoqun/modify-cli.git"
+  },
+  "homepage": "https://github.com/lizuoqun/modify-cli",
+  "bugs": {
+    "url": "https://github.com/lizuoqun/modify-cli/issues"
+  },
   "dependencies": {
     "chalk": "^4.0.0",
     "commander": "^14.0.1",
