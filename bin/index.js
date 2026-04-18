@@ -10,10 +10,10 @@ const gitClone = require("git-clone");
 const { read } = require("fs");
 
 const gieResponse = {
-  vue: "https://gitee.com/iamkun/dayjs.git",
-  react: "https://gitee.com/iamkun/dayjs.git",
-  "react-ts": "https://gitee.com/iamkun/dayjs.git",
-  "vue-ts": "https://gitee.com/iamkun/dayjs.git",
+  vue: "https://github.com/modifyLZQ/vue.git",
+  react: "https://github.com/modifyLZQ/react.git",
+  "react-ts": "https://github.com/modifyLZQ/react-ts.git",
+  "vue-ts": "https://github.com/modifyLZQ/vue-ts.git",
 };
 
 // 首行提示
